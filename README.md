@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date:
-## Register Number:
-## Name:
+# Date:02/12/2024
+## Register Number:24009451
+## Name:KISHORE S M
 ## Problem Title
 Implementation of the Alumni Association platform for the University/Institute.
 ## Problem Description
@@ -10,16 +10,48 @@ Background: Alumni associations play a pivotal role in fostering lifelong connec
 Government of Gujarat
 
 ## Idea
+Alumni Connect:
+
+A comprehensive online platform for the Government Engineering College's alumni association, featuring:
+
+- User-friendly registration and profile management
+- Secure donation portal
+- Networking hub for connecting alumni
+- Job portal for career opportunities
+- Alumni directory and success story tracking
+- Event management and feedback mechanisms
 
 
 ## Proposed Solution / Architecture Diagram
-
-
+![alt text](<Screenshot 2024-12-02 202342.png>)
+![alt text](<Screenshot 2024-12-02 202556.png>)
 ## Use Cases
+Alumni Use Cases:
+1. Networking: Alumni can connect with each other, share updates, and collaborate on projects.
+2. Job Search: Alumni can search and apply for job openings posted by other alumni or by the college.
+3. Mentorship: Alumni can offer mentorship to current students or younger alumni, providing guidance and advice.
 
+College Administrator Use Cases:
+1. Alumni Data Management: College administrators can manage alumni data, track engagement, and analyze metrics to improve alumni relations.
+2. Event Management: College administrators can create and manage events, including registrations, payments, and communications.
+
+Student Use Cases:
+1. Mentorship: Students can connect with alumni mentors, seeking guidance and advice on career paths and industry trends.
+2. Job Search: Students can search and apply for job openings posted by alumni or by the college
 
 ## Technology Stack
 
+1. Front-end: HTML5, CSS3, JavaScript, React Native/Flutter
+2. Back-end: Node.js, Express.js, MongoDB
+3. Security: SSL/TLS encryption, secure password storage, JWT authentication
 
 ## Dependencies
+1. Requirements gathering (1 week)
+2. Design and prototyping (2 weeks)
+3. Front-end development (8 weeks)
+4. Back-end development (10 weeks)
+5. Testing and debugging (4 weeks)
+6. Deployment and maintenance (ongoing)
+7. Estimated budget:$76,000 - $145,000
 
+    
